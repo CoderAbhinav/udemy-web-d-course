@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+
+h1 {
+    text-transform: uppercase;
+}
+
+.poster {
+    color: white;
+    text-align: center;
+}
+
+.poster > img {
+    border: 5px solid white;
+    height: 400px;
+}
